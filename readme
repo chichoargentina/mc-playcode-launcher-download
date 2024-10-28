@@ -1,0 +1,8 @@
+$env:STRAPI_TOKEN="your_token_here"
+$env:STRAPI_URL="your_url_here"
+$env:GA4_GA_ID="your_ga_id_here"
+$env:GA4_SECRET="your_secret_here"
+$env:CURSEFORGE_TOKEN="your_curseforge_token_here"
+npm start
+
+npm run make
